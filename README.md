@@ -1,6 +1,15 @@
 # IRIS-Flower-classification
 
+We all know about Iris Dataset, and it contains features of different flower species. Independent features in this dataset are Sepal Length, Sepal Width, Petal Length, and Petal Width. All these lengths were in centimeters. And Dependent feature, which will be the output for the model, is Species. It contains the name of the species to which that particular flower with those measurements belongs.
+
 <img src="https://miro.medium.com/max/875/1*7bnLKsChXq94QjtAiRn40w.png">
+
+### The dataset contains a set of 150 records under 5 attributes
+- Petal Length
+- Petal Width
+- Sepal Length
+- Sepal width
+- Class(Species)
 
 This Project is thorugh application of machine learning with python programming.
 It focuses on IRIS flower classification using Machine Learning with different ML Models. 
